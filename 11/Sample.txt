@@ -1,0 +1,1 @@
+Getting a grip on an entire program is, in reality, difficult, so it is inevitable that programs will contain some bugs. What is crucial here is to isolate the areas where errors are unacceptable, and to accept that while there will be some errors overall they should be contained as much as possible.
